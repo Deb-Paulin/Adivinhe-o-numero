@@ -9,6 +9,7 @@ Esse é um adivinhador de número, você deve chutar um número e ver se acerta.
 ![Screenshot from 2023-05-01 16-36-48](https://user-images.githubusercontent.com/113848968/235517302-bd94cebc-b856-4f25-a400-dd94bd0da691.png)
 
 ## Deploy
+https://deb-paulin.github.io/Adivinhe-o-numero/
 
 ## Tecnologias utilizadas
 -HTML 
