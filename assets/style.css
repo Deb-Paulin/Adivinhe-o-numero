@@ -1,10 +1,7 @@
 body {
-    font-family: "Roboto Mono", monospace;
     min-height: 600px;
-    background-color: #000000;
-    background-size: cover;
+    background: linear-gradient(98deg, rgba(123,189,158,1) 16%, rgba(228,187,232,1) 67%);
     background-position: center bottom;
-    background-repeat: no-repeat;
 }
   
 .container {
@@ -14,12 +11,12 @@ body {
 }
   
 .container__title {
-    color: #ffffff;
+    color: #fcf6f6;
     margin: 0 0 5px;
 }
   
 .container__subtitle {
-    color: #ffffff;
+    color: #fcf6f6;
     margin-top: 18px;
 }
 
