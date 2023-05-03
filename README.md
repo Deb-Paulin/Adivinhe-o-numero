@@ -18,4 +18,8 @@ https://deb-paulin.github.io/Adivinhe-o-numero/
 
 -Javascript
 
+## Autor
 
+Débora Paulin
+
+https://www.linkedin.com/in/debora-paulin/
